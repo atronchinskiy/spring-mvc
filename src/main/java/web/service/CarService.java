@@ -6,7 +6,7 @@ import web.model.Car;
 import java.util.ArrayList;
 import java.util.List;
 
-@Service ("carService")
+@Service
 public class CarService {
 private List<Car> cars;
 
